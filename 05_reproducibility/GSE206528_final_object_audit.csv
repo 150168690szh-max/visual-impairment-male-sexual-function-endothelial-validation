@@ -1,0 +1,2 @@
+"object","cells","features","annotation_column","assays","reductions"
+"GSE206528_Seurat_celltype_final.rds",64993,24505,"celltype_final","RNA","pca;umap"

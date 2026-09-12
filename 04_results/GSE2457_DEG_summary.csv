@@ -1,0 +1,4 @@
+"criterion","gene_number"
+"FDR<0.05",5
+"FDR<0.05 & abs(logFC)>=0.5",5
+"P<0.05 & abs(logFC)>=0.5",838

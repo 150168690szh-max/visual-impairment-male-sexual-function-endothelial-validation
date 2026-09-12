@@ -1,0 +1,6 @@
+"condition","spot_number","retained_percent"
+"All",4898,100
+"nFeature>=300",4733,96.63
+"nCount>=500",4627,94.47
+"percent.mt<=10",4898,100
+"Combined",4627,94.47

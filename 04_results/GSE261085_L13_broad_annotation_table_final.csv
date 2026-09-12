@@ -1,0 +1,8 @@
+"cluster","annotation","interpretation"
+0,"ACKR1_SELE_activated_endothelial","ACKR1+/SELE+ activated endothelial-rich spatial region"
+1,"Smooth_muscle_rich","Smooth-muscle/mural-cell-rich spatial region"
+2,"Fibroblast_macrophage_rich","Fibroblast and macrophage-rich stromal region"
+3,"Low_information_spatial_region","Low-transcript-information spatial region lacking a coherent lineage-specific transcriptional program"
+4,"GJA5_arterial_endothelial","GJA5+/EFNB2+ arterial endothelial-rich spatial region"
+5,"Plasma_cell_perivascular_immune","Plasma-cell-rich perivascular immune niche"
+6,"Schwann_neural_rich","Schwann/neural-rich spatial region"

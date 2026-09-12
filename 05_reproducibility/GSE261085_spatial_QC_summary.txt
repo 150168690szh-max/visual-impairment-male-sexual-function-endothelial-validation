@@ -1,0 +1,7 @@
+   percent.mt       nCount_RNA     nFeature_RNA 
+ Min.   :0.7326   Min.   :  500   Min.   : 327  
+ 1st Qu.:2.1839   1st Qu.: 5683   1st Qu.:2370  
+ Median :2.4875   Median : 8700   Median :3188  
+ Mean   :2.5173   Mean   : 8781   Mean   :3002  
+ 3rd Qu.:2.8120   3rd Qu.:11666   3rd Qu.:3860  
+ Max.   :6.6125   Max.   :29104   Max.   :6547  

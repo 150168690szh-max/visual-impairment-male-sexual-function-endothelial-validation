@@ -1,0 +1,15 @@
+# Large processed objects
+*.rds
+*.RData
+*.Rhistory
+
+# Raw and temporary data
+01_geo/
+02_gwas/
+00_raw/
+tmp/
+temp/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

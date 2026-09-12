@@ -1,0 +1,13 @@
+"ACKR1_SELE_state","group1","group2","p_adj"
+"ACKR1_high_SELE_high","non-DM_ED","Diabetes_ED",0.772829992684448
+"ACKR1_high_SELE_high","Normal","Diabetes_ED",0.285645395738286
+"ACKR1_high_SELE_high","Normal","non-DM_ED",0.285645395738286
+"ACKR1_high_SELE_low","non-DM_ED","Diabetes_ED",1
+"ACKR1_high_SELE_low","Normal","Diabetes_ED",1
+"ACKR1_high_SELE_low","Normal","non-DM_ED",1
+"ACKR1_low_SELE_high","non-DM_ED","Diabetes_ED",1
+"ACKR1_low_SELE_high","Normal","Diabetes_ED",1
+"ACKR1_low_SELE_high","Normal","non-DM_ED",0.242566795110157
+"ACKR1_low_SELE_low","non-DM_ED","Diabetes_ED",0.772829992684448
+"ACKR1_low_SELE_low","Normal","Diabetes_ED",0.285645395738286
+"ACKR1_low_SELE_low","Normal","non-DM_ED",0.285645395738286

@@ -1,0 +1,2 @@
+"object","spots","features","cluster_column","annotation_column","assays","reductions"
+"GSE261085_L13_Seurat_endothelial_spatial_states_final.rds",4627,32151,"seurat_clusters",NA,"RNA","pca;umap"

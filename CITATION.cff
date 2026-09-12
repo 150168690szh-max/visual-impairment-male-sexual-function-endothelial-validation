@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Reproducible analysis archive for visual impairment, male sexual function and endothelial transcriptomic validation"
+message: "If you use this repository, please cite the associated article and the archived Zenodo release."
+type: software
+authors:
+  - family-names: "[AUTHOR TO COMPLETE]"
+    given-names: "[AUTHOR TO COMPLETE]"
+    orcid: "[ORCID TO COMPLETE]"
+version: "v1.0.0"
+license: CC-BY-4.0
+repository-code: "[GITHUB URL TO COMPLETE]"
+url: "[ZENODO DOI URL TO COMPLETE]"

@@ -1,0 +1,11 @@
+"broad_region","Transferred_endothelial_state_v2","spots","total_spots","percent"
+"ACKR1_SELE_activated_endothelial","ACKR1_high_endothelial",311,1414,21.994342291372
+"ACKR1_SELE_activated_endothelial","Activated_endothelial_SELE",448,1414,31.6831683168317
+"ACKR1_SELE_activated_endothelial","Arterial_endothelial",220,1414,15.5586987270156
+"ACKR1_SELE_activated_endothelial","Endothelial_general_or_mixed",297,1414,21.004243281471
+"ACKR1_SELE_activated_endothelial","Low_core_within_endo_region",138,1414,9.75954738330976
+"GJA5_arterial_endothelial","ACKR1_high_endothelial",6,89,6.74157303370786
+"GJA5_arterial_endothelial","Activated_endothelial_SELE",13,89,14.6067415730337
+"GJA5_arterial_endothelial","Arterial_endothelial",34,89,38.2022471910112
+"GJA5_arterial_endothelial","Endothelial_general_or_mixed",9,89,10.1123595505618
+"GJA5_arterial_endothelial","Low_core_within_endo_region",27,89,30.3370786516854

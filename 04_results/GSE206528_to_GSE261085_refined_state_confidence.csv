@@ -1,0 +1,9 @@
+"broad_region","Transferred_endothelial_state_refined","spots","median_top_score","median_margin","median_core_Z"
+"ACKR1_SELE_activated_endothelial","ACKR1_high_endothelial",311,1.14907500831668,0.692354589470863,0.937495386100326
+"ACKR1_SELE_activated_endothelial","Activated_endothelial_SELE",448,1.17180468771747,0.727757494994843,0.970031477547317
+"ACKR1_SELE_activated_endothelial","Arterial_endothelial",220,1.19335805188904,0.621526942445342,0.941873697016788
+"ACKR1_SELE_activated_endothelial","Endothelial_general_or_mixed",435,0.491128969351108,0.143307394772072,0.586645836080754
+"GJA5_arterial_endothelial","ACKR1_high_endothelial",6,1.29654828267364,0.822651324092326,0.975465608866848
+"GJA5_arterial_endothelial","Activated_endothelial_SELE",13,1.42225055403154,0.948252598931649,1.02522590968957
+"GJA5_arterial_endothelial","Arterial_endothelial",34,2.5274376528948,1.58344471922266,0.857789648609043
+"GJA5_arterial_endothelial","Endothelial_general_or_mixed",36,0.828676728567375,0.401830288423682,-0.502976670923967

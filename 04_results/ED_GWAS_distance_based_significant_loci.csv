@@ -1,0 +1,2 @@
+locus_id,CHR,start,end,n_sig_variants,lead_POS,lead_effect_allele,lead_other_allele,lead_EAF,lead_Effect,lead_SE,lead_P,lead_variant
+1,6,100600097,100629078,6,100629078,t,c,0.7678,-0.1782,0.0237,5.712e-14,6:100629078:t:c

@@ -1,0 +1,15 @@
+Reproducibility archive for visual impairment, male sexual health and endothelial transcriptomic validation
+
+Public data sources:
+
+GSE206528: human corpus cavernosum single-cell RNA sequencing dataset.
+GSE261085: human corpus cavernosum spatial transcriptomics dataset.
+GSE2457: rat diabetic penile tissue expression microarray dataset.
+ED GWAS: erectile dysfunction genome-wide association summary statistics.
+OpenGWAS dataset identifier: ebi-a-GCST006956.
+
+The GEO datasets can be downloaded from the NCBI Gene Expression Omnibus.
+The GWAS summary statistics were obtained from the OpenGWAS resource.
+
+The processed result tables correspond to the analyses reported in the manuscript.
+The R package versions and session information are provided separately.
