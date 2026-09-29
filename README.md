@@ -1,36 +1,62 @@
-# Reproducible analysis archive
+# Visual impairment and male sexual dysfunction
 
-## Project
+## Systematic review, stratified evidence synthesis, and endothelial transcriptomic validation
 
-Visual impairment, male sexual function and endothelial transcriptomic validation.
+This repository contains the reproducible analysis code, processed outputs, and documentation supporting the study:
 
-## Data sources
+**Visual impairment and male sexual dysfunction: a systematic review, stratified evidence synthesis, and endothelial transcriptomic validation**
 
-- GSE206528: human corpus cavernosum single-cell RNA sequencing.
-- GSE261085: human corpus cavernosum spatial transcriptomics.
-- GSE2457: rat diabetic penile tissue expression microarray.
-- OpenGWAS: ebi-a-GCST006956.
+---
+
+## Authors
+
+- **Junquan Hu** — First author
+- **Zihao Shi** — Co-first author
+- **Zhisong Guo**
+- **Juan Zhang**
+- **Shenghuang Zhu** — Corresponding author
+
+Junquan Hu and Zihao Shi contributed equally to this work.
+
+---
+
+## Project overview
+
+This study integrates two complementary components.
+
+### Work 1 — Clinical evidence synthesis
+
+A systematic review and stratified evidence synthesis evaluating the association between visual impairment and male sexual dysfunction, including erectile dysfunction, erectile function, sexual activity, desire, and satisfaction.
+
+Because the available studies differed substantially in visual-exposure definitions, outcome instruments, comparator structures, and effect measures, no single pooled overall effect estimate was calculated when clinically inappropriate.
+
+### Work 2 — Endothelial transcriptomic validation
+
+Publicly available transcriptomic and genetic datasets were analysed to investigate endothelial biological features relevant to erectile dysfunction.
+
+The principal datasets include:
+
+- **GSE206528** — human corpus cavernosum single-cell RNA sequencing
+- **GSE261085** — human corpus cavernosum spatial transcriptomics
+- **GSE2457** — diabetic rat penile tissue expression data
+- **OpenGWAS ebi-a-GCST006956** — erectile dysfunction GWAS summary statistics
+
+The omics analyses provide biological support and mechanistic context but are not intended to establish that visual impairment causes erectile dysfunction.
+
+---
 
 ## Repository structure
 
-- `03_scripts/`: analysis scripts.
-- `04_results/`: processed result tables and figure-related outputs.
-- `05_reproducibility/`: software versions, session information and audit tables.
+```text
+03_scripts/
+    Analysis scripts
 
-## Reproducibility note
+04_results/
+    Processed result tables and derived analysis outputs
 
-The analysis scripts were reconstructed from the project analysis record.
-Processed objects and result tables were audited against the final Seurat objects.
-Large processed objects will be archived separately through Zenodo.
+05_figures/
+    Figures and figure-related outputs
 
-## Software
-
-R package versions and session information are provided in `05_reproducibility/`.
-
-## Citation
-
-A version-specific citation and DOI will be added after Zenodo publication.
-
-## Contact
-
-[AUTHOR TO COMPLETE]
+05_reproducibility/
+    Software versions, session information, audit tables,
+    and reproducibility documentation
