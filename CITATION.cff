@@ -1,12 +1,40 @@
 cff-version: 1.2.0
-title: "Reproducible analysis archive for visual impairment, male sexual function and endothelial transcriptomic validation"
-message: "If you use this repository, please cite the associated article and the archived Zenodo release."
+
+message: "If you use this repository, please cite the associated study and this software archive."
+
+title: "Visual impairment and male sexual dysfunction: systematic review, stratified evidence synthesis, and endothelial transcriptomic validation"
+
 type: software
+
 authors:
-  - family-names: "[AUTHOR TO COMPLETE]"
-    given-names: "[AUTHOR TO COMPLETE]"
-    orcid: "[ORCID TO COMPLETE]"
-version: "v1.0.0"
-license: CC-BY-4.0
-repository-code: "[GITHUB URL TO COMPLETE]"
-url: "[ZENODO DOI URL TO COMPLETE]"
+  - family-names: "Hu"
+    given-names: "Junquan"
+
+  - family-names: "Shi"
+    given-names: "Zihao"
+
+  - family-names: "Guo"
+    given-names: "Zhisong"
+
+  - family-names: "Zhang"
+    given-names: "Juan"
+
+  - family-names: "Zhu"
+    given-names: "Shenghuang"
+
+repository-code: "https://github.com/150168690szh-max/visual-impairment-male-sexual-function-endothelial-validation"
+
+license: "MIT"
+
+keywords:
+  - visual impairment
+  - male sexual dysfunction
+  - erectile dysfunction
+  - systematic review
+  - transcriptomics
+  - endothelial cells
+  - single-cell RNA sequencing
+  - spatial transcriptomics
+  - SELE
+  - ACKR1
+  - GWAS
