@@ -45,18 +45,26 @@ The omics analyses provide biological support and mechanistic context but are no
 
 ---
 
+
+```markdown
 ## Repository structure
 
 ```text
 03_scripts/
-    Analysis scripts
+    Main R analysis scripts.
 
 04_results/
-    Processed result tables and derived analysis outputs
+    GSE206528/
+    GSE261085/
+    GSE2457/
+    ED_GWAS/
+    cross_dataset/
 
 05_figures/
-    Figures and figure-related outputs
+    Main and supplementary analysis figures.
+    marker_validation_figures/
 
 05_reproducibility/
-    Software versions, session information, audit tables,
-    and reproducibility documentation
+    audits/
+    environment/
+    TableS8/
