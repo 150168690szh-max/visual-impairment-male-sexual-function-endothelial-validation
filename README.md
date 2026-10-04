@@ -45,8 +45,6 @@ The omics analyses provide biological support and mechanistic context but are no
 
 ---
 
-
-```markdown
 ## Repository structure
 
 ```text
