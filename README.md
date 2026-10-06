@@ -15,6 +15,7 @@ This repository contains the reproducible analysis code, processed outputs, and 
 - **Zihao Shi** — Co-first author
 - **Zhisong Guo**
 - **Juan Zhang**
+- **Shaoming Huang**
 - **Shenghuang Zhu** — Corresponding author
 
 Junquan Hu and Zihao Shi contributed equally to this work.
