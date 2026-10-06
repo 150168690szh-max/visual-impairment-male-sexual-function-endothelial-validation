@@ -5,6 +5,7 @@
 This repository contains the reproducible analysis code, processed outputs, and documentation supporting the study:
 
 **Visual impairment and male sexual dysfunction: a systematic review, stratified evidence synthesis, and endothelial transcriptomic validation**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23147382.svg)](https://doi.org/10.5281/zenodo.23147382)
 
 ---
 
