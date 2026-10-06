@@ -67,3 +67,11 @@ The omics analyses provide biological support and mechanistic context but are no
     audits/
     environment/
     TableS8/
+
+## Citation
+
+Version 1.0.0 of this reproducible analysis archive is permanently archived on Zenodo.
+
+DOI: **10.5281/zenodo.23147382**
+
+https://doi.org/10.5281/zenodo.23147382
